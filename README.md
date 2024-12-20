@@ -19,4 +19,4 @@ This tool allows users to perform encryption and decryption on images using XOR-
 ## Installation:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/RoNiXxCybSeC0101/PRODIGY_CS_TASK2.git
